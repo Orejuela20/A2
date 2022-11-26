@@ -4,8 +4,8 @@
 //docente:Ing.Stalin Francis
  
 #include<iostream>//pone a su disposicion los objetos cin, cout, clog y cerr en el ambito estandar (std)
-using namespace std;//
-int main()//
+using namespace std;//llamada espacio de nombre para utilizar cin, cout y no estar utlizando siempre el std.
+int main()//el cuerpo del programa que indica donde comienza y finaliza.
 
 {      
 
